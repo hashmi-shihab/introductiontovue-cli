@@ -2,7 +2,7 @@
 1. install node.js
 2. open cmd where you want to put your project
 3. npm install -g @vue/cli
-4. vue init webpack-simple projectname(must be in lower case,for vue 2.0)
+4. vue init webpack-simple projectname(must be in lower case,for vue 2.0)(After put this command just enter  until cmd suggest you next procedure)
 5. cd projectname
 6. npm install
 7. npm run dev
